@@ -20,5 +20,5 @@
 
 <h3>📊 Estatísticas</h3>
 
-<img alt="Tecnologias" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAnMo&layout=compact&theme=react&custom_title=Tecnologias"/>
+<img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAnMo&layout=compact&theme=react&custom_title=Linguagens"/>
 
