@@ -1,10 +1,10 @@
-<h1 style='text-align: center;'>Felipe Moretzsohn</h1>
+<h1>Felipe Moretzsohn</h1>
 
-<h3 style='color:rgb(163, 196, 248);'>👨🏻‍💻 Desenvolvedor FullStack</h3>
+<h3 style='color:#a3c4f8; margin-top: 38px;'>👨🏻‍💻 Desenvolvedor FullStack</h3>
 
 <p>Me chamo Felipe Andrade Moretzsohn, sou programador FullStack. Atualmente, estou cursando Engenharia de Software e sou técnico em Mecatrônica pela ETEC Martin Luther King. Sou apaixonado por tecnologia e adoro aprender novas linguagens de programação.</p>
 
-<h3>💻 Linguagens e Tecnologia</h3>
+<h3 style='margin-top: 38px;'>💻 Linguagens e Tecnologia</h3>
 
 <div>
     <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
@@ -18,7 +18,7 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </div>
 
-<h3>📊 Estatísticas</h3>
+<h3 style='margin-top: 38px;'>📊 Estatísticas</h3>
 
 <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAnMo&layout=compact&theme=react&custom_title=Linguagens"/>
 
